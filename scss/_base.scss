@@ -1,0 +1,30 @@
+// Reseteo de css
+
+* {
+    box-sizing: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+@keyframes circulo1{
+    from {
+        transform: rotate(0deg) scale(3);
+    }
+    to {
+        transform: rotate(360deg) scale(3);
+    }
+}
+
+// Variables
+
+$color-princial: #c65533;
+$color-secundario: #1fb1ed;
+$color-terciario: #181818;
+

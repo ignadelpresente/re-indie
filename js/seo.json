@@ -1,0 +1,40 @@
+{
+    "@context": "https://www.instagram.com/blanc.blanc._",
+    "@type": "MusicGroup",
+    "name": "Blanc",
+    "description": "Con un amalgama peculiar de sonidos pop, nostálgicos y psicodélicos, Ignacio Palombarini, Eduardo Cardozo y Jose Escudero conforman el núcleo de Blanc, un proyecto musical de origen mendocino, que se caracteriza por la fusión de melodías pegajosas, el uso de sintetizadores lisérgicos y letras melancólicas que evocan guiños constantes. Hasta el momento, han participado en festivales como el Dominrock y el Festival Bocas Abiertas, además de haber realizado actuaciones con otros artistas de renombre como El Príncipe Idiota, Gauchito Club, 1915 y Guillermo Beresñak. Han lanzado cinco sencillos, siendo su más reciente titulado No es muy tarde, el cual cuenta con la colaboración de Eve Calletti.",
+    "genre": "Indie, Dream Pop, Neo-Psycodelia",
+    "locationCreated": {
+      "@type": "Place",
+      "address": {
+        "addressLocality": "Mendoza",
+        "addressRegion": "Mendoza",
+        "addressCountry": "Argentina"
+      }
+    },
+    "memberOf": {
+      "@type": "MusicGroup",
+      "name": "Indie"
+    },
+    "member": [
+      {
+        "@type": "Person",
+        "name": "Ignacio Palombarini"
+      },
+      {
+        "@type": "Person",
+        "name": "Eduardo Cardozo"
+      },
+      {
+        "@type": "Person",
+        "name": "José Escudero"
+      }
+    ],
+    "sameAs": [
+        "https://www.instagram.com/blanc.blanc._",
+        "https://open.spotify.com/intl-es/artist/3eIbYSrn7M4PLV9GmUrfbZ?si=jRee9NtmSpysAYcpeb7UDg&nd=1",
+        "https://www.tiktok.com/@tan.blanc",
+        "https://www.youtube.com/channel/UCCBqTm9UI7eTu-9ZjRXxqZA"
+    ]
+  }
+  

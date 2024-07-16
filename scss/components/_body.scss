@@ -1,0 +1,20 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: $color-terciario;
+}
+
+h1, h2, h3, h4 {
+    color: rgb(216, 195, 187);
+    font-family: 'DM Serif Display', serif;
+    font-weight: 900;
+    padding: 1vh;
+
+}
+
+p {
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    padding: 1vh;
+}
